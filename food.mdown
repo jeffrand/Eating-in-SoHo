@@ -12,15 +12,15 @@
 * sunrise mart
 
 # SOUTH OF BORDER
-*spanish spot (west side coffee shop)
-*lupe's 
-*la esquina
-*burrito cart
-*cafe habana
-*papatzul
-*rubens empanadas
-*pinche taqueria
-*cafe el portal
+* spanish spot (west side coffee shop)
+* lupe's 
+* la esquina
+* burrito cart
+* cafe habana
+* papatzul
+* rubens empanadas
+* pinche taqueria
+* cafe el portal
 
 # AMERICAN
 * mudville
