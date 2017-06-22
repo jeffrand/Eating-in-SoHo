@@ -32,10 +32,12 @@ list of popular lunch/dinner places in the neighborhood
 * cafe el portal
 * chipotle
 * Tacombi
+* dat calexico cart
 
 ## AMERICAN
 * mudville
 * that mac n cheese place
+* grey dog
 
 ## EURO
 * columbine (baller sammies in tribeca)
